@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[float: right;]]></content>
+	<tabTrigger>flr</tabTrigger>
+    <description>CSS - float: right;</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
