@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[:first-cild]]></content>
+	<tabTrigger>fir</tabTrigger>
+    <description>CSS - :first-cild</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

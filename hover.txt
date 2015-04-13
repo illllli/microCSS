@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[:hover]]></content>
+	<tabTrigger>hov</tabTrigger>
+    <description>CSS - :hover</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

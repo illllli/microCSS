@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[background: #${1:ccc} url('$2')${3:no-repeat} ${4:left} ${5:top} ;]]></content>
+    <tabTrigger>bac</tabTrigger>
+    <description>CSS background: #ccc url('') no-repeat left top;</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-decoration: underline;]]></content>
+	<tabTrigger>tex</tabTrigger>
+    <description>CSS - text-decoration: underline;</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

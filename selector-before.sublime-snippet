@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[:before]]></content>
+	<tabTrigger>bf</tabTrigger>
+    <description>CSS - :before</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
