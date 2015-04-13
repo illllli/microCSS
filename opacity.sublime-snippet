@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[filter:alpha(opacity=${1:7}0);
+	-moz-opacity: 0.${1:7};
+	opacity: 0.${1:7};]]></content>
+	<tabTrigger>box</tabTrigger>
+    <description>CSS - opacity: 0.$1;</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
