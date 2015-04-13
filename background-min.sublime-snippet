@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[background: #${1:ccc} ;$2]]></content>
+    <content><![CDATA[background: #${1:ccc};$2]]></content>
     <tabTrigger>bac</tabTrigger>
-    <description>CSS background: #ccc ;</description>
+    <description>CSS background: #ccc;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>
 </snippet>
