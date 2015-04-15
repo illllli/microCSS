@@ -41,22 +41,32 @@ ce
 text-align: center;
 ```
 
-dis
+dibl
 ```CSS
 display: block;
 ```
 
-dis
+blo
+```CSS
+display: block;
+```
+
+diin
 ```CSS
 display: inline;
 ```
 
-dis
+in
+```CSS
+display: inline;
+```
+
+diin
 ```CSS
 display: inline-block;
 ```
 
-dis
+dino
 ```CSS
 display: none;
 ```
@@ -86,7 +96,7 @@ fon
 font-size: ${1:12px};$2
 ```
 
-h
+hi
 ```CSS
 height: $1;
 ```
@@ -173,7 +183,7 @@ no
 white-space: nowrap;
 ```
 
-w
+wi
 ```CSS
 width: $1;
 ```
