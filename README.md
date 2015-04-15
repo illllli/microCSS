@@ -56,6 +56,16 @@ dis
 display: inline-block;
 ```
 
+dis
+```CSS
+display: none;
+```
+
+non
+```CSS
+display: none;
+```
+
 fir
 ```CSS
 :first-child
@@ -76,9 +86,24 @@ fon
 font-size: ${1:12px};$2
 ```
 
+h
+```CSS
+height: $1;
+```
+
 hov
 ```CSS
 :hover
+```
+
+imp
+```CSS
+!important
+```
+
+line
+```CSS
+line-height: 1.5;
 ```
 
 mar
@@ -98,9 +123,29 @@ filter:alpha(opacity=${1:7}0);
 opacity: 0.${1:7};
 ```
 
+out
+```CSS
+outline: 0;
+```
+
 pad
 ```CSS
 padding: ${1:0};$2
+```
+
+pos
+```CSS
+position: absolute;
+```
+
+pos
+```CSS
+position: fixed;
+```
+
+pos
+```CSS
+position: relative;
 ```
 
 af
@@ -116,6 +161,16 @@ bf
 tex
 ```CSS
 text-decoration: none;
+```
+
+ver
+```CSS
+vertical-align: bottom;
+```
+
+no
+```CSS
+white-space: nowrap;
 ```
 
 w

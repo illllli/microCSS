@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[outline: 0;]]></content>
+	<tabTrigger>out</tabTrigger>
+    <description>CSS - outline: 0;</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
