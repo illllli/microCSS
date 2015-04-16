@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[:first-child]]></content>
+	<tabTrigger>fir</tabTrigger>
+    <description>CSS - :last-child</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
